@@ -1,0 +1,9 @@
+# ninja log v5
+0	474	7323754426770169	CMakeFiles/2__Dining_philosophers_problem.dir/main.cpp.obj	eec88f3ad2fcafd0
+475	634	7323754428340519	2__Dining_philosophers_problem.exe	2f85ae19de86fcc5
+3	1167	7323755655676166	CMakeFiles/2__Dining_philosophers_problem.dir/main.cpp.obj	eec88f3ad2fcafd0
+1168	1326	7323755657245858	2__Dining_philosophers_problem.exe	2f85ae19de86fcc5
+2	482	7323755977797781	CMakeFiles/2__Dining_philosophers_problem.dir/main.cpp.obj	eec88f3ad2fcafd0
+482	626	7323755979207801	2__Dining_philosophers_problem.exe	2f85ae19de86fcc5
+2	471	7323756342363243	CMakeFiles/2__Dining_philosophers_problem.dir/main.cpp.obj	eec88f3ad2fcafd0
+472	613	7323756343753233	2__Dining_philosophers_problem.exe	2f85ae19de86fcc5
